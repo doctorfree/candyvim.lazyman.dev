@@ -76,12 +76,13 @@ Check out the `which-key` menu and `lua/config/keybindings.lua` for most used ma
 
 | **Key Bindings** | **Description** |
 | :--------------- | --------------: |
-| <C - e>      | Toggles nvim-tree file explorer                                                                                                                                                                                                                                                         |
-| , p w        | Find word under cursor in project - very useful to find where component is used. Just use binding and type '<'. There is a lot of alternatives like LSP references but I like it with telescope and to not find only references but whole text under cursor.                            |
+| <C - e>      | Toggles nvim-tree file explorer |
+| , p w        | Find word under cursor in project - very useful to find where component is used. Just use binding and type '<'. There is a lot of alternatives like LSP references but I like it with telescope and to not find only references but whole text under cursor. |
 | , p f        | Find file under cursor in project - it finds files in project which contains text under cursor. Useful when you name directories by component name in React and wants to go quickly to file. 'gd' is better but in some projects without TS or with mixed JS/TS it cannot work properly |
-| , p t        | Finds TODOs/NOTES in project                                                                                                                                                                                                                                                            |
-| , p l        | Switch between projects                                                                                                                                                                                                                                                                 |
-| , p s        | Save session to load it later from Dashboard                                                                                                                                                                                                                                            |
+| , p t        | Finds TODOs/NOTES in project |
+| , p l        | Switch between projects |
+| , p s        | Save session to load it later from Dashboard |
+
 ### Commenting
 
 | **Key Bindings** | **Description** |

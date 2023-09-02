@@ -44,22 +44,9 @@ Overview
 
 [More screenshots](https://candyvim.lazyman.dev/screenshots)
 
-## Installation
+## [Installation](https://candyvim.lazyman.dev/install)
 
-**Just clone GitHub repo into ~/.config/nvim-CandyVim**
-
-**Prerequisities**
-
-- Make sure you have installed the latest version of Neovim v0.9.0+ (nightly is preferred).
-- Have wget, curl, unzip, git, make, pip, python, npm, node, luarocks, fd, ripgrep and cargo installed on your system. You can check if you are missing anything with `:checkhealth` command.
-- Have any nerd font installed. _Fira Code_ has been used in screenshots. You can download it from [nerdfonts.com](https://www.nerdfonts.com/font-downloads).
-
-**After install configuration:**
-
-1. Selected treesitter Languages are installed by default.
-   To check it run `:TSInstallInfo`.
-   Make sure to run `:TSInstall <lang>` for specific language you want to install.
-2. LSP servers are enabled by default. You can check installed LSP servers by `:Mason` command.
+See the [Install tab](https://candyvim.lazyman.dev/install) for installation instructions.
 
 ## Configuration
 
@@ -69,7 +56,7 @@ To change vim settings use the `config/options.lua` file.
 
 To change plugin related settings use the specific `plugins/[name].lua` file. Some of the plugin config can be set up during plugin installation in `config/plugins.lua` file, where you can add new plugins.
 
-## Keybindings
+## [Keybindings](https://candyvim.lazyman.dev/keymaps)
 
 See the [Keymaps tab](https://candyvim.lazyman.dev/keymaps) for details on CandyVim key bindings.
 
@@ -111,7 +98,7 @@ CandyVim started in 91.13ms
 
 ## Authors
 
-- [\u0141ukasz Kurpiewski](https://github.com/ecosse3)
+- [Lukasz Kurpiewski](https://github.com/ecosse3)
 - [Ronald Record](https://github.com/doctorfree)
 
 <div align="center">
