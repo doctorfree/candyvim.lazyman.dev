@@ -9,28 +9,28 @@ post_style: page
 
 An Eye Candy Neovim config built to work most efficiently with Frontend Development
 
-This is based on [Ecovim](https://github.com/ecosse3/nvim) with a lot of useless eye candy
+This is based on [Ecovim](https://github.com/ecosse3/nvim){:target="_blank"}{:rel="noopener noreferrer"} with a lot of useless eye candy
 thrown in to demonstrate how useful Neovim is even loaded up with candy.
 
 ## Features
 
 - Configured for TypeScript Development (React.js, Next.js, Vue.js, Angular, Node.js etc.)
-- Great default theme: [Tokyonight](https://github.com/folke/tokyonight.nvim)
-- Lazy loaded via [lazy.nvim](https://github.com/folke/lazy.nvim)
+- Great default theme: [Tokyonight](https://github.com/folke/tokyonight.nvim){:target="_blank"}{:rel="noopener noreferrer"}
+- Lazy loaded via [lazy.nvim](https://github.com/folke/lazy.nvim){:target="_blank"}{:rel="noopener noreferrer"}
 - Highly performant (90ms load time)
-- Extendable LSP configuration via [mason.nvim](https://github.com/williamboman/mason.nvim)
-- Support for :robot: AI: [ChatGPT](https://openai.com/blog/chatgpt/), [GitHub Copilot](https://github.com/features/copilot), [Codeium](https://codeium.com/) and [Tabnine](https://www.tabnine.com/)
-- Support for [TailwindCSS](https://tailwindcss.com/) with highlighted colors
+- Extendable LSP configuration via [mason.nvim](https://github.com/williamboman/mason.nvim){:target="_blank"}{:rel="noopener noreferrer"}
+- Support for :robot: AI: [ChatGPT](https://openai.com/blog/chatgpt/){:target="_blank"}{:rel="noopener noreferrer"}, [GitHub Copilot](https://github.com/features/copilot){:target="_blank"}{:rel="noopener noreferrer"}, [Codeium](https://codeium.com/){:target="_blank"}{:rel="noopener noreferrer"} and [Tabnine](https://www.tabnine.com/){:target="_blank"}{:rel="noopener noreferrer"}
+- Support for [TailwindCSS](https://tailwindcss.com/){:target="_blank"}{:rel="noopener noreferrer"} with highlighted colors
 - JSON autocompletion for most popular Frontend configs
 - NPM packages autocompletion in _package.json_
-- Internal [Jest](https://github.com/facebook/jest) testing and [Coverage](https://github.com/andythigpen/nvim-coverage) support
-- Debugging with [nvim-dap](https://github.com/mfussenegger/nvim-dap) (works with React.js & React Native)
+- Internal [Jest](https://github.com/facebook/jest){:target="_blank"}{:rel="noopener noreferrer"} testing and [Coverage](https://github.com/andythigpen/nvim-coverage){:target="_blank"}{:rel="noopener noreferrer"} support
+- Debugging with [nvim-dap](https://github.com/mfussenegger/nvim-dap){:target="_blank"}{:rel="noopener noreferrer"} (works with React.js & React Native)
 - Automatic Treesitter-based folding with imports folded by default
-- Current code context via [nvim-navic](https://github.com/SmiteshP/nvim-navic)
-- Beautiful and functional custom statusline built with [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim)
-- Git management with [Lazygit](https://github.com/jesseduffield/lazygit), custom telescope commits view with [git-delta](https://github.com/dandavison/delta), [gitsigns](https://github.com/lewis6991/gitsigns.nvim) & [diffview](https://github.com/sindrets/diffview.nvim), custom git blame
+- Current code context via [nvim-navic](https://github.com/SmiteshP/nvim-navic){:target="_blank"}{:rel="noopener noreferrer"}
+- Beautiful and functional custom statusline built with [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim){:target="_blank"}{:rel="noopener noreferrer"}
+- Git management with [Lazygit](https://github.com/jesseduffield/lazygit){:target="_blank"}{:rel="noopener noreferrer"}, custom telescope commits view with [git-delta](https://github.com/dandavison/delta){:target="_blank"}{:rel="noopener noreferrer"}, [gitsigns](https://github.com/lewis6991/gitsigns.nvim){:target="_blank"}{:rel="noopener noreferrer"} & [diffview](https://github.com/sindrets/diffview.nvim){:target="_blank"}{:rel="noopener noreferrer"}, custom git blame
 
-And of course usage of [telescope](https://github.com/nvim-telescope/telescope.nvim), [nvim-tree](https://github.com/kyazdani42/nvim-tree.lua), [barbar](https://github.com/romgrk/barbar.nvim), [cmp](https://github.com/hrsh7th/nvim-cmp), [treesitter](https://github.com/nvim-treesitter/nvim-treesitter), [blankline](https://github.com/lukas-reineke/indent-blankline.nvim) & more!
+And of course usage of [telescope](https://github.com/nvim-telescope/telescope.nvim){:target="_blank"}{:rel="noopener noreferrer"}, [nvim-tree](https://github.com/kyazdani42/nvim-tree.lua){:target="_blank"}{:rel="noopener noreferrer"}, [barbar](https://github.com/romgrk/barbar.nvim){:target="_blank"}{:rel="noopener noreferrer"}, [cmp](https://github.com/hrsh7th/nvim-cmp){:target="_blank"}{:rel="noopener noreferrer"}, [treesitter](https://github.com/nvim-treesitter/nvim-treesitter){:target="_blank"}{:rel="noopener noreferrer"}, [blankline](https://github.com/lukas-reineke/indent-blankline.nvim){:target="_blank"}{:rel="noopener noreferrer"} & more!
 
 ## Screenshots
 
@@ -98,8 +98,8 @@ CandyVim started in 91.13ms
 
 ## Authors
 
-- [Łukasz Kurpiewski](https://github.com/ecosse3)
-- [Ronald Record](https://github.com/doctorfree)
+- [Łukasz Kurpiewski](https://github.com/ecosse3){:target="_blank"}{:rel="noopener noreferrer"}
+- [Ronald Record](https://github.com/doctorfree){:target="_blank"}{:rel="noopener noreferrer"}
 
 <div align="center">
   <p align="center">
