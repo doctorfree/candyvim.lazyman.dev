@@ -18,12 +18,12 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Starter # the main title
+title: CandyVim # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Eye Candy for Neovim  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  An Eye Candy Neovim config built to work most efficiently with Frontend Development.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -73,7 +73,7 @@ theme_mode:
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/competence.png"
+avatar: "/assets/neovim-hicontrast.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -89,10 +89,11 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo-name>
-    repo_id: # The repository node id, find it with "gh api repos/${repo} | jq '.node_id'"
-    category: # The repo discussion category for comments, e.g. General
-    category_id: # This is the hardest thing to find. Use the following script:
+    repo: doctorfree/candyvim.lazyman.dev # <gh-username>/<repo-name>
+    repo_id: R_kgDOKOozsQ # The repository node id, find it with "gh api repos/${repo} | jq '.node_id'"
+    category: General # The repo discussion category for comments, e.g. General
+    category_id: DIC_kwDOKOozsc4CZCwN
+                 # This is the hardest thing to find. Use the following script:
                  # gh api graphql -f query='
                  # {
                  #   repository(owner: "<gh-username>", name: "<repo-name>") {
