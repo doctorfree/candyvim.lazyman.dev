@@ -98,7 +98,7 @@ CandyVim started in 91.13ms
 
 ## Authors
 
-- [Lukasz Kurpiewski](https://github.com/ecosse3)
+- [Łukasz Kurpiewski](https://github.com/ecosse3)
 - [Ronald Record](https://github.com/doctorfree)
 
 <div align="center">

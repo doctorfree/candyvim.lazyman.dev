@@ -30,7 +30,7 @@ and a shell function to fuzzy search and select among them.
 - Twitter: [@ronrecord](https://twitter.com/ronrecord){:target="_blank"}{:rel="noopener noreferrer"}
 - Github: [@doctorfree](https://github.com/doctorfree){:target="_blank"}{:rel="noopener noreferrer"}
 
-👤 **Lukasz Kurpiewski**
+👤 **Łukasz Kurpiewski**
 
 - Github: [@ecosse3](https://github.com/ecosse3){:target="_blank"}{:rel="noopener noreferrer"}
 
