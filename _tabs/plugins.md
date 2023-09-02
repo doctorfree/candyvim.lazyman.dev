@@ -8,24 +8,14 @@ post_style: page
 
 ## Language Servers
 
-- astro
-- bashls
-- cssls
-- emmet_ls
-- eslint
-- graphql
-- html
-- jsonls
-- lua_ls
-- prismals
-- pyright
-- rust_analyzer
-- solargraph
-- svelte
-- tailwindcss
-- tsserver
+| **CandyVim** | **Supported** | **Language** | **Servers** |
+| :----------- | :-----------: | :----------: | ----------: |
+| astro | bashls | cssls | emmet_ls |
+| eslint | graphql | html | jsonls |
+| lua_ls | prismals | pyright | rust_analyzer |
+| solargraph | svelte | tailwindcss | tsserver |
 
-## Plugins
+## CandyVim Supported Neovim Plugins
 
 ### bars-and-lines
 

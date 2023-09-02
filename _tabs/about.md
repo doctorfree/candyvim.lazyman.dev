@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 8
 ---
 
-# CandyVim eye candy frontend development config for Neovim
+<h2 align="center">CandyVim Neovim Configuration</h2>
+
+## Eye candy frontend development config for Neovim
 
 **[Note:]** This Neovim configuration is based on [Ecovim](https://lazyman.dev/info/Ecovim.html)
 and is enhanced for use with [Lazyman](https://lazyman.dev).
@@ -28,7 +30,7 @@ and a shell function to fuzzy search and select among them.
 - Twitter: [@ronrecord](https://twitter.com/ronrecord){:target="_blank"}{:rel="noopener noreferrer"}
 - Github: [@doctorfree](https://github.com/doctorfree){:target="_blank"}{:rel="noopener noreferrer"}
 
-👤 **&Lstrok;ukasz Kurpiewski**
+👤 **\u0141ukasz Kurpiewski**
 
 - Github: [@ecosse3](https://github.com/ecosse3){:target="_blank"}{:rel="noopener noreferrer"}
 
