@@ -24,6 +24,14 @@ post_style: page
 
 ![WhichKey](https://raw.githubusercontent.com/wiki/doctorfree/CandyVim/screenshots/4-which-key.png)
 
+### Which Key Games Menu
+
+![WhichKey Games](https://raw.githubusercontent.com/wiki/doctorfree/CandyVim/screenshots/4-which-key-games.png)
+
+### Which Key Duck Menu
+
+![WhichKey Duck](https://raw.githubusercontent.com/wiki/doctorfree/CandyVim/screenshots/4-which-key-duck.png)
+
 ### Lazygit
 
 ![Lazygit](https://raw.githubusercontent.com/wiki/doctorfree/CandyVim/screenshots/4-lazygit.png)
