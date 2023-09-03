@@ -64,7 +64,7 @@ A fast and fully programmable greeter for Neovim.
 
 ### Alpha Keymaps
 
-- `,A` Alpha dashboard
+- `,//` Alpha dashboard
 
 ## [noice.nvim](https://github.com/folke/noice.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
