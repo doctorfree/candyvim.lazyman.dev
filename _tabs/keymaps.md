@@ -101,6 +101,31 @@ Check out the `which-key` menu and `lua/config/keybindings.lua` for most used ma
 | , t d r      | (Only when Table Mode Enabled) Delete row                                         |
 | , t s        | (Only when Table Mode Enabled) Sort table alphabetically                          |
 
+### Eye Candy
+
+| **Key Bindings** | **Description**   |
+| :--------------- | ----------------: |
+| `,Gg`        | Cellular automaton    |
+| `,Gr`        | Make it rain          |
+| `,Da`        | Hatch Crab            |
+| `,Dc`        | Hatch Cat             |
+| `,Dd`        | Hatch Duck            |
+| `,Dg`        | Hatch Ghost           |
+| `,Dh`        | Hatch Horse           |
+| `,Di`        | Hatch Chick           |
+| `,Ds`        | Hatch slow duck       |
+| `,Dt`        | Hatch Dinosaur        |
+| `,DA`        | Hatch All             |
+| `,Dk`        | Cook Duck             |
+| `,DK`        | Cook Many Ducks       |
+| `,//`        | Alpha dashboard       |
+| `,Gb`        | Blackjack game        |
+| `,Gv`        | Play Vim be good      |
+| `,Gs`        | Play Sudoku           |
+| `,Ga`        | Hack auto typing mode |
+| `,Gf`        | Hack current buffer   |
+| `,Gh`        | Hack fake buffer      |
+
 ### Other VERY useful bindings
 
 | **Key Bindings** | **Description** |
