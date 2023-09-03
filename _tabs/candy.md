@@ -6,62 +6,103 @@ toc: true
 post_style: page
 ---
 
-## CandyVim Eye Candy
+# CandyVim Eye Candy
 
-### [cellular-automaton.nvim](https://github.com/eandrju/cellular-automaton.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+## [cellular-automaton.nvim](https://github.com/eandrju/cellular-automaton.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 A useless plugin that might help you cope with stubbornly broken tests or
 overall lack of sense in life. It lets you execute aesthetically pleasing,
 cellular automaton animations based on the content of neovim buffer.
 
-### [mini.animate](https://github.com/echasnovski/mini.animate){:target="\_blank"}{:rel="noopener noreferrer"}
+### Cellular Automaton Keymaps
+
+- `,Gg` : Cellular automaton
+- `,Gr` : Make it rain
+
+## [mini.animate](https://github.com/echasnovski/mini.animate){:target="\_blank"}{:rel="noopener noreferrer"}
 
 Animate common Neovim actions.
 
-### [duck.nvim](https://github.com/tamton-aquib/duck.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+## [duck.nvim](https://github.com/tamton-aquib/duck.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 A duck (and other critters) that waddles arbitrarily in Neovim.
 
-### [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+### Duck Keymaps
+
+- `,Da` : Hatch Crab
+- `,Dc` : Hatch Cat
+- `,Dd` : Hatch Duck
+- `,Dg` : Hatch Ghost
+- `,Dh` : Hatch Horse
+- `,Di` : Hatch Chick
+- `,Ds` : Hatch slow duck
+- `,Dt` : Hatch Dinosaur
+- `,DA` : Hatch All
+- `,Dk` : Cook Duck
+- `,DK` : Cook Many Ducks
+
+## [flirt.nvim](https://github.com/tamton-aquib/flirt.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 Animations for floating windows in Neovim.
 
-### [nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua){:target="\_blank"}{:rel="noopener noreferrer"}
+## [nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua){:target="\_blank"}{:rel="noopener noreferrer"}
 
 A high-performance color highlighter for Neovim.
 
-### [twilight.nvim](https://github.com/folke/twilight.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+## [twilight.nvim](https://github.com/folke/twilight.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 Dim inactive portions of the code you're editing.
 
-### [tokyonight.nvim](https://github.com/folke/tokyonight.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+## [tokyonight.nvim](https://github.com/folke/tokyonight.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 A dark and light Neovim theme written in Lua ported from the Visual Studio Code
 TokyoNight theme. Includes extra themes for Kitty, Alacritty, iTerm and Fish.
 
-### [alpha-nvim](https://github.com/goolord/alpha-nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+## [alpha-nvim](https://github.com/goolord/alpha-nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 A fast and fully programmable greeter for Neovim.
 
-### [noice.nvim](https://github.com/folke/noice.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+### Alpha Keymaps
+
+- `,A` Alpha dashboard
+
+## [noice.nvim](https://github.com/folke/noice.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 Completely replaces the UI for `messages`, `cmdline` and the `popupmenu`.
 
 ## CandyVim Games
 
-### [blackjack.nvim](https://github.com/alanfortlink/blackjack.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+## [blackjack.nvim](https://github.com/alanfortlink/blackjack.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 A Neovim plugin that implements a classic BlackJack game in Neovim.
 
-### [vim-be-good](https://github.com/ThePrimeagen/vim-be-good){:target="\_blank"}{:rel="noopener noreferrer"}
+### Blackjack Keymaps
+
+- `,Gb` Blackjack game
+
+## [vim-be-good](https://github.com/ThePrimeagen/vim-be-good){:target="\_blank"}{:rel="noopener noreferrer"}
 
 `Vim be good` is a plugin designed to make you better at vim by creating
 a game in which to practice basic movements.
 
-### [sudoku.nvim](https://github.com/jim-fx/sudoku.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+### Vim Be Good Keymaps
+
+- `,Gv` Play Vim be good
+
+## [sudoku.nvim](https://github.com/jim-fx/sudoku.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 A Neovim plugin that implements a classic Sudoku game in Neovim.
 
-### [hacker.nvim](https://github.com/letieu/hacker.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
+### Sudoku Keymaps
+
+- `,Gs` Play Sudoku
+
+## [hacker.nvim](https://github.com/letieu/hacker.nvim){:target="\_blank"}{:rel="noopener noreferrer"}
 
 Hollywood hacker experience in Neovim.
+
+### Hacker Keymaps
+
+- `,Ga` Hack auto typing mode
+- `,Gf` Hack current buffer
+- `,Gh` Hack fake buffer
