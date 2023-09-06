@@ -15,7 +15,7 @@ with a lot of useless eye candy thrown in to demonstrate how useful Neovim is
 even loaded up with candy.
 
 **[Note:]** the default namespace for the
-[Lazyman configuration](https://lazyman.dev/info/Lazyman.html) is now `candy`
+[Lazyman configuration](https://lazyman.dev/info/Lazyman.html) is now `ecovim`
 which is an enhanced version of `CandyVim`.
 
 ## Features
