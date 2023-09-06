@@ -9,8 +9,14 @@ post_style: page
 
 An Eye Candy Neovim config built to work most efficiently with Frontend Development
 
-This is based on [Ecovim](https://github.com/ecosse3/nvim){:target="_blank"}{:rel="noopener noreferrer"} with a lot of useless eye candy
-thrown in to demonstrate how useful Neovim is even loaded up with candy.
+This is based on
+[Ecovim](https://github.com/ecosse3/nvim){:target="_blank"}{:rel="noopener noreferrer"}
+with a lot of useless eye candy thrown in to demonstrate how useful Neovim is
+even loaded up with candy.
+
+**[Note:]** the default namespace for the
+[Lazyman configuration](https://lazyman.dev/info/Lazyman.html) is now `candy`
+which is an enhanced version of `CandyVim`.
 
 ## Features
 
